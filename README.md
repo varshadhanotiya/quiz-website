@@ -1,13 +1,9 @@
 <br />
 <p align="center">
-
   <h3 align="center">Trivia Quiz</h3>
-
   <p align="center">
- How much do you know? A Trivia Quiz built with React using     <a href="https://opentdb.com/">Trivia API</a>.
+A Trivia Quiz built with React using     <a href="https://opentdb.com/">Trivia API</a>.
     <br />
-    <br />
-    <a href="">View Demo</a>
   </p>
 </p>
 
