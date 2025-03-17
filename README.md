@@ -1,10 +1,7 @@
 <br />
 <p align="center">
-  <a href="">
-    <img src="src/components/img/trivia-night-rm.png" alt="Logo">
-  </a>
 
-  <h3 align="center">Trivia Night</h3>
+  <h3 align="center">Trivia Quiz</h3>
 
   <p align="center">
  How much do you know? A Trivia Quiz built with React using     <a href="https://opentdb.com/">Trivia API</a>.
@@ -31,10 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-![Product Name Screen Shot](src/components/img/presentation.png)
-
-When setting out to create our second project at Wild Code School, we decided to go for a Quiz. Our mission: Testing the knowledge of the user and, at the same time, expanding our knowledge applying Axios fetching an API, using Hooks, Spring-Animations and more.
 
 Our website features:
 
