@@ -17,11 +17,41 @@ A Trivia Quiz built with React using     <a href="https://opentdb.com/">Trivia A
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/varshadhanotiya/quiz-website
+   ```
+2. Navigate to the project directory
+   ```sh
+   cd quiz-website
+   ```
+3. Install dependencies
+   ```sh
+   npm install
+   ```
+4. Start the development server
+   ```sh
+   npm run dev
+   ```
+
+
+### Local Development Server
+
+Once the server starts, you can access the project at:
+
+**Local:** [http://localhost:5173/](http://localhost:5173/)
+
 
 ## About The Project
 
